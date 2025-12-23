@@ -61,6 +61,4 @@ This is my way of lifting the hood.
 …maybe you’ve felt the same gap between using ML and *understanding* it.  
 I’d love to hear what you’re rebuilding.  
 
-*(And yes — I’m open to freelance or research collaborations where depth matters more than speed.)*
-
 — Touseef
